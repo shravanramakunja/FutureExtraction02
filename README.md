@@ -1,5 +1,8 @@
 # Data Analysis and Preprocessing Demonstration Projects
 
+## About
+A comprehensive demonstration of data science workflows featuring two real-world projects: insurance cost prediction and heart disease classification. This repository showcases essential data preprocessing techniques, exploratory data analysis, statistical insights, and feature engineering methods to prepare clean, model-ready datasets.
+
 ## Overview
 This repository contains two comprehensive data analysis projects that demonstrate essential data science workflows including data preprocessing, feature engineering, exploratory data analysis (EDA), and statistical analysis. The projects showcase how to properly prepare datasets for machine learning models while ensuring data quality and understanding underlying patterns.
 
